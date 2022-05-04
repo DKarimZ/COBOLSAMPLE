@@ -1,0 +1,12 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 3 :
+
+ A partir du programme petstorechallenge.cbl
+
+ 1) Procéderà 3 items pour chaque client
+ 2) Mettre à jour le programme pour générer un fichier rapport
+ 3) Afficher le sous total pour chaque client 
+ 4) Afficher le total des transactions
