@@ -98,7 +98,7 @@
            05 FILLER            PIC X(5).
            05 FILLER            PIC X(4)  VALUE 'SNOW'.
            05 FILLER            PIC X(5).
-           05 FILLER            PIC X(5)  VALUE 'GRELE'.
+           05 FILLER            PIC X(5)  VALUE 'HAIL'.
            05 FILLER            PIC X(5).
            05 FILLER            PIC X(5)  VALUE 'THUND'.  
            05 FILLER            PIC X(5).
