@@ -1,0 +1,13 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 7 :
+
+En utilisant le fichier : weather2020.DAT
+1) Lire les données climatiques et les enregistrer dans une table
+2) Fournir çà l'utilsateur le coix d'afficher la tbale entière 
+ou un numéro de station sépcifique
+ indice : Ajouter le numéro de station comme index
+
+ 
