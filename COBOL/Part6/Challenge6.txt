@@ -1,0 +1,21 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 6 :
+
+1) Convertir un fichier line sequentiel en un fichier dexé
+2) Notre fichier contient un 
+ID
+attendance
+venue name
+home and away team names
+runs
+number f innings
+depuis un fichier repertoriant certians grand matchs de 2016
+3) Utiliser l'ID comme clé primaire et choisir en plus une clé secondaire
+4) Ecire un deuxime programme qui lira le fichier indexé créé
+5) Ce deuxième programme proposera à l'utiliateur d'entrée une clé 
+et d'afficher les valeurs correspodantes
+voir le mappping avec l'image BaseBallFileRecordLayout
+
