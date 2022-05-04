@@ -1,0 +1,12 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 5 :
+
+E s'inspirant du programme mergestudents.cbl
+1) Ecrire un programme qui fusionne deux fichiers de données employée
+2) Utiliser en entrée les fichiers ACME.DAT et FUSESINC.DAT 
+3) Trier et afficher en sortie les employés selon leur numéro de sécurité 
+sociale
+4) Challenge additionel : Construire un fichier rapport pour le fichier fusioné
