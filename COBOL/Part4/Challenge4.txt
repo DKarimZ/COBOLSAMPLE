@@ -1,0 +1,12 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 4 :
+
+A partir d'un fichier d'entrée empfile.dat contenant une liste d'employés
+et leur taux horaire respectif
+A partir du fichier employeeraise.cbl ou from SCRATCHING
+1) Donner à chaque employée une augmentation de 3%
+2) ecrire un nouveau fichier sequentiel nommé newempfile.dat
+3) Ajouter la logique de verification pour avoir un fichier bien cohérent
