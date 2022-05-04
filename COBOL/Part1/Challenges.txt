@@ -1,0 +1,17 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 1 :
+
+1) Demander à l'utilisateur d'entrer son nom
+2) Demander à l'utilisateur d'entrer sa TAILLE en m (nombre décimal)
+3) Demander à l'utilisateur d'entrer son POIDS en kg (nombre entier)
+4) Appliquer la formule suivant à l'aide du verbe COMPUTE :
+
+COMPUTE IMC = POIDS / (TAILLE * TAILLE)
+
+INDICE : L'IMC étant un nombre décimal il doit se déclarer avec la clause
+       : PIC 99V99
+
+Bonne chance ! 
