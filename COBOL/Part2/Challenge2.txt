@@ -1,0 +1,13 @@
+Les challenges proposés :
+- Ces challenges sont une version à ma sauce des challenges du tutoriel
+- de Peggy Fisher proposé sur Linkedin Learning : COBOL Essential Training
+
+Challenge 2 :
+
+En se servant comme base du programme SalesWithCommission.cbl
+1) Changer le taux de commission (commissionrate) de 3 à 5%.
+2) Créer un fichier de rapport isolé.
+3) Inclure le montant total de toutes les commissions
+4) utiliser le fichier report comme modèle pour créer ce rapport.
+
+Bonne chance ! 
